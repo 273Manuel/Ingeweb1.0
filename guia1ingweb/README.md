@@ -9,11 +9,11 @@ Este repositorio contiene una página web informativa sobre los fundamentos de l
 
 ## Reflexión individual
 
-Durante el desarrollo de esta actividad entendi que organizar de manera semantica me ayuda a tener una mejor estructura y orden en el codigo, ademas de esto entendi que esto me facilita la accesibilidad, el posicionamiento web, y la comprensión del sitio por parte de otros desarrolladores.
+A lo largo de esta actividad comprendí que aplicar una estructura semántica adecuada no solo mejora la organización del código, sino que también optimiza aspectos cruciales como la accesibilidad web, el SEO y facilita la colaboración entre desarrolladores al hacer el código más legible y mantenible.
 
-Aprendi el uso y la importacia de utilizar algunas etiquetas como <header>, <main>, <section> y <footer> ya que no solo es una cuestión estética, sino que responde a una necesidad de mantener el orden y la lógica de los componentes en el desarrollo de una pagina web.
+Descubrí la relevancia de emplear etiquetas semánticas como `<header>`, `<main>`, `<section>` y `<footer>`, las cuales van más allá de la simple presentación visual. Estas etiquetas establecen una jerarquía clara y coherente en la estructura del documento, permitiendo que tanto navegadores como tecnologías asistivas comprendan mejor el contenido y su propósito.
 
-También aprendí a organizar archivos y carpetas dentro de un proyecto web, y a subirlos correctamente a un repositorio GitHub con control de versiones, lo cual es fundamental para trabajar de forma profesional.
+Además, desarrollé habilidades prácticas en la gestión de proyectos web, aprendiendo a estructurar correctamente directorios y archivos, así como a utilizar Git y GitHub para el control de versiones. Estas competencias son esenciales en el desarrollo web profesional y sientan las bases para trabajar eficientemente en entornos colaborativos.
 
 ## Estructura del proyecto
 ```
@@ -44,3 +44,4 @@ Porque permite que cualquier miembro del equipo entienda fácilmente la estructu
 1. Mejora la accesibilidad para todos los usuarios, incluyendo personas con discapacidad.
 2. Facilita el posicionamiento en buscadores gracias a su estructura clara.
 3. Hace el código más limpio, ordenado y fácil de mantener.
+
